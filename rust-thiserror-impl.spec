@@ -6,7 +6,7 @@
 
 Name:           rust-%{crate}
 Version:        1.0.26
-Release:        1
+Release:        2
 Summary:        Derive(Error)
 Group:		System/Librariers
 # Upstream license specification: MIT OR Apache-2.0
