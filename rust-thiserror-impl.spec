@@ -5,8 +5,8 @@
 %global crate thiserror-impl
 
 Name:           rust-%{crate}
-Version:        1.0.26
-Release:        2
+Version:        2.0.19
+Release:        1
 Summary:        Derive(Error)
 Group:		System/Librariers
 # Upstream license specification: MIT OR Apache-2.0
